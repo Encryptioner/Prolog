@@ -1,0 +1,4 @@
+list([p,q,r]).
+
+
+what is([Head | Tail]):-list([Head|Tail]).
